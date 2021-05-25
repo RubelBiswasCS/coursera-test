@@ -1,0 +1,26 @@
+
+.c-ash{
+    color: black;
+    background-color: #b2beb5;
+}
+.c-gray{
+    color: black;
+    background-color: gray;
+    
+}
+.bg-1{
+    padding: 20px;
+    padding-top: 2px;
+    background-color: rgb(209, 212, 226);
+}
+.bold-text{
+    font-weight: bold;
+    color: black;
+    font-size: 200%;
+    
+}
+.border-black{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
